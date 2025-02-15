@@ -56,8 +56,8 @@
             <p>With credits on major hits and a catalog that speaks for itself, Da Real PG continues to shape the sound of the South. His latest singles are setting the streets on fire, and industry insiders recognize his pen game as next level.</p>
         </div>
         <div class="section">
-            <h2>Why Da Real PG Deserves the Blue Check</h2>
-            <p>With a proven track record in the music industry, consistent engagement with fans, and a growing presence in mainstream media, Da Real PG is more than just an artist—he’s a movement. Verified accounts are reserved for notable figures, and with his impact and credentials, there’s no doubt he qualifies.</p>
+            <h2>Why Da Real PG ? </h2>
+            <p>With a proven track record in the music industry, consistent engagement with fans, and a growing presence in mainstream media, Da Real PG is more than just an artist—he’s a movement. Fame is reserved for notable figures, and with his impact and credentials, there’s no doubt he qualifies.</p>
             <a href="#" class="btn">Follow on Instagram</a>
         </div>
     </div>
